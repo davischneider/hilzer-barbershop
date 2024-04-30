@@ -1,6 +1,10 @@
-William Stallings (Stallings, 2012) apresenta uma versão mais complicada do problema da barbearia, que ele atribui a Ralph Hilzer da Universidade da Califórnia.
-O problema consiste em uma barbearia com três barbeiros e três cadeiras próprias de barbeiros, também existe uma série de lugares para que os clientes possam esperar.
-Tanto os barbeiros quanto os clientes devem ser implementados como Threads. Requisitos:
+William Stallings (Stallings, 2012) apresenta uma versão mais complicada do problema
+da barbearia, que ele atribui a Ralph Hilzer da Universidade da Califórnia. O problema
+consiste numa barbearia com três barbeiros e três cadeiras próprias de barbeiros,
+também existe uma série de lugares para que os clientes possam esperar. Tanto os
+barbeiros quanto os clientes devem ser implementados como Threads.
+
+Requisitos:
 1. três cadeiras;
 2. três barbeiros;
 3. uma sala de espera com um sofá de quatro lugares;
